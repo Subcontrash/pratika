@@ -2,7 +2,7 @@
 Este é o repositório oficial da Vidraçaria PratikaVidros, uma empresa especializada em serviços de vidraçaria. Neste projeto, utilizaremos HTML, CSS, PHP e um chatbot para criar uma solução de atendimento ao cliente automatizada.
 
 ### Sobre a Empresa
-A Vidraçaria XYZ é uma empresa renomada no ramo de vidraçaria, fornecendo produtos e serviços de alta qualidade para clientes residenciais e comerciais. Com uma equipe experiente e especializada, estamos comprometidos em oferecer soluções personalizadas que atendam às necessidades e expectativas de nossos clientes.
+A Vidraçaria PratikaVidros é uma empresa renomada no ramo de vidraçaria, fornecendo produtos e serviços de alta qualidade para clientes residenciais e comerciais. Com uma equipe experiente e especializada, estamos comprometidos em oferecer soluções personalizadas que atendam às necessidades e expectativas de nossos clientes.
 
 ### Objetivo do Projeto
 O objetivo deste projeto é desenvolver um sistema de atendimento ao cliente automatizado, utilizando uma combinação de tecnologias web, como HTML, CSS, PHP e um chatbot. O sistema permitirá que os clientes interajam conosco de forma fácil e conveniente, obtendo respostas rápidas às suas perguntas e solicitações.
